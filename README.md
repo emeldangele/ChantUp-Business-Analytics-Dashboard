@@ -12,7 +12,17 @@ and provide actionable insights.
 ![ChantUp Excel](chantup_sales_analysis_dashboard.png)
 
 ### Power BI Version
-![ChantUp PowerBI](screenshots/chantup_powerbi.png)
+### Executive Overview Dashboard
+![Executive Overview](executive_overview_dashboard.png)
+
+### Marketing & Channel Analysis Dashboard
+![Marketing & Channel Analysis](marketing_channel_analysis_dashboard.png)
+
+### Product & Category Performance Dashboard
+![Product & Category Performance](product_category_performance_dashboard.png)
+
+### Campus & Geographic Insights Dashboard
+![Campus & Geographic Insights](campus_geographic_insights_dashboard.png)
 
 ## Objectives
 - Analyze business performance metrics
