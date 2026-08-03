@@ -9,7 +9,7 @@ and provide actionable insights.
 ## Dashboard Preview
 
 ### Excel Version
-![ChantUp Excel](screenshots/chantup_excel.png)
+![ChantUp Excel](chantup_sales_analysis_dashboard.png)
 
 ### Power BI Version
 ![ChantUp PowerBI](screenshots/chantup_powerbi.png)
